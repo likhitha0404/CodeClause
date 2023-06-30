@@ -1,4 +1,5 @@
 Dataset is taken from kaggle 
-fake.csv : https://www.kaggle.com/code/therealsampat/fake-news-detection/input?select=Fake.csv
+fake.csv 
+https://www.kaggle.com/code/therealsampat/fake-news-detection/input?select=Fake.csv
 True.csv
 https://www.kaggle.com/code/therealsampat/fake-news-detection/input?select=True.csv
